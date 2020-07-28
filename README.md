@@ -44,7 +44,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on Android Developer.
+- 🔭 I’m currently working as Android Developer.
 - 🌱 I’m currently learning Flutter Developer.
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 😄 I usually be a part of hackathons as a Mentor, Participants and a Organiser.
