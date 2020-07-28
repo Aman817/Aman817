@@ -44,13 +44,12 @@
   </a>
 </p>
 
-- 🔭 I’m currently working as Android Developer.
+- 🔭 I’m currently working as an Android Developer.
 - 🌱 I’m currently learning Flutter Development.
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
-- 😄 I usually be a part of hackathons as a Mentor, Participants and a Organiser.
-- 🌱 I love speak at public events and been a speaker at many events.
+- 🌱 I love to speak at public events and been a speaker at many events.
 - 💬 Ask me about Android or any tech related stuff.
-- ⚡ Fun fact: I love having new connections, Helping students and professionals for their extravalent doubts, Provides free resources and opportunities to Students and working professionals in need, and also I love to Travel and eating Food! 
+- ⚡ Fun fact: I like having new connections, Helping students and professionals for their extravalent doubts, Provide free resources and opportunities to Students and working professionals in need, and also  love to Travel and eating Food! 
 - 👯 And Many more...
 
 <p>
