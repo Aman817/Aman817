@@ -49,7 +49,7 @@
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 🌱 I love to speak at public events and been a speaker at many events.
 - 💬 Ask me about Android or any tech related stuff.
-- ⚡ Fun fact: I like having new connections, Helping students and professionals for their extravalent doubts, Provide free resources and opportunities to Students and working professionals in need, and also  love to Travel and eating Food! 
+- ⚡ Fun fact: I like to have new connections, helping students and professionals for their extravalent doubts, provide free resources and opportunities to Students and working professionals in need, and also  travel and eating Food! 
 - 👯 And Many more...
 
 <p>
