@@ -45,7 +45,7 @@
 </p>
 
 - 🔭 I’m currently working as Android Developer.
-- 🌱 I’m currently learning Flutter Developer.
+- 🌱 I’m currently learning Flutter Development.
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 😄 I usually be a part of hackathons as a Mentor, Participants and a Organiser.
 - 🌱 I love speak at public events and been a speaker at many events.
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aman817/Aman817/master/src/SKILLS%20NAME.png" width="100%"
+  <img src="https://raw.githubusercontent.com/Aman817/Aman817/master/src/SKILLS%20NAME3.png" width="100%"
   alt="AMAN GANGWAR" />
   <br>
 </p>
